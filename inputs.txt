@@ -1,0 +1,4 @@
+title; quantity; location; images;
+toilet paper; 1; hall closet;
+bug spray; 2; hall closet, garage;
+paper towels; 1; basement;
