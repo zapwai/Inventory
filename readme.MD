@@ -1,0 +1,1 @@
+Backend for updating a database with inventory of stuff around the house. For now it takes an item name (title), quantity, and location.
